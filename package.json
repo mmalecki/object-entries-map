@@ -1,0 +1,27 @@
+{
+  "name": "object-entries-map",
+  "version": "0.0.0",
+  "description": "Deconstruct an object into entries (using `Object.entries`), run a user-supplied map function, and reconstruct the object (using `Object.fromEntries`)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmalecki/object-entries-map.git"
+  },
+  "keywords": [
+    "object",
+    "entries",
+    "map"
+  ],
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmalecki/object-entries-map/issues"
+  },
+  "homepage": "https://github.com/mmalecki/object-entries-map#readme"
+}
