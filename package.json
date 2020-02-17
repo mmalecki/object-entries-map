@@ -1,6 +1,6 @@
 {
   "name": "object-entries-map",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Deconstruct an object into entries (using `Object.entries`), run a user-supplied map function, and reconstruct the object (using `Object.fromEntries`)",
   "main": "index.js",
   "directories": {
